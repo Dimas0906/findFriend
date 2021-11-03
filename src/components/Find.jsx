@@ -18,7 +18,7 @@ function Find() {
       <h1 className="relative text-3xl mb-3 font-bold text-center">
         Find International Friend
       </h1>
-      <div className="flex justify-center items-center overflow-x-scroll md:min-h-screen md:min-w-screen px-3">
+      <div className="flex justify-center items-center md:min-h-screen md:min-w-screen px-3">
         <div className="grid grid-cols-5 gap-2">
           {persons.map((person, idx) => {
             return (

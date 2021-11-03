@@ -1,3 +1,13 @@
+# Find International App
+
+### Screenshoot
+
+[![SS](https://github.com/Dmaul0906/assets/blob/main/final.png?raw=true "SS")](https://github.com/Dmaul0906/assets/blob/main/final.png?raw=true "SS")
+
+link: https://findfriendapp.netlify.app/
+
+TechStack: Create-react-app, Axios, Tailwindcss, Public API [Random Person](https://randomuser.me/api)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
