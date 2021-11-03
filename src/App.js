@@ -1,9 +1,10 @@
+import Find from "./components/Find";
 import "./styles/output.css"
 
 function App() {
   return (
     <div className="App">
-      <h1 className="">Hello World!!</h1>
+      <Find />
     </div>
   );
 }
